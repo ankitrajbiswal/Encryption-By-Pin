@@ -54,8 +54,6 @@ public class encryptbypin {
 		
 	}
 
-/* Palak Srivastava
-   1941012835
-   CSE J */
+
 
 
