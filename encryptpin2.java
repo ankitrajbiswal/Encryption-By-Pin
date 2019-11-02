@@ -98,6 +98,3 @@ public class encryptpin2 {
 		
 	}
 
-/*Submitted by Ankit Raj Biswal
-               1941012238
-               CSE 'D'*/
